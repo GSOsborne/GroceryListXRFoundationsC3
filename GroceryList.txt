@@ -1,0 +1,4 @@
+oranges
+apples
+lettuce
+bagels
